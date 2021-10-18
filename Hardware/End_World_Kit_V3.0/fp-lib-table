@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name End_World_Kit_V3)(type KiCad)(uri ${KIPRJMOD}/End_World_Kit_V3.pretty)(options "")(descr ""))
+)

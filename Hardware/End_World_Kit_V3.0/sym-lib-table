@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name End_World_Kit_V3.0)(type Legacy)(uri ${KIPRJMOD}/End_World_Kit_V3.0.lib)(options "")(descr ""))
+  (lib (name End_World_Kit_V2.0-cache)(type Legacy)(uri G:/KiCad_Projects/End_World_Kit_V2.0/End_World_Kit_V2.0-cache.lib)(options "")(descr ""))
+)
